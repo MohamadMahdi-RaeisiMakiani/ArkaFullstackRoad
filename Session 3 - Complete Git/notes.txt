@@ -1,0 +1,24 @@
+git clone <github link>
+
+.gitignore
+This is for ignoring files and folders at git.
+
+
+Git & github
+-------------
+git init
+git add .
+git commit -m "commit comment"
+git commit --amend --no-edit
+git remote add <name> <link>
+git push
+git pull
+git clone
+git status
+git log
+git branch
+git switch -c <branch name>
+git checkout <branch name>
+git merge
+git restore
+git diff
