@@ -1,0 +1,15 @@
+HTML = HyperTextMarkupLanguage
+CSS = Cacading Style Sheet
+Javascript = A Programming Language to have interactions between browser (Website) and Client
+
+Protocol
+Sub Domain
+Domain
+TLD
+Port
+Path
+
+ISP & Internet Connections
+IP Address
+Browser
+
