@@ -1,0 +1,48 @@
+1980 - First ISP
+1989 - World Wide Web (WWW)
+1990 - First Web Browser Introduced (HTML) / Tim Berners-Lee [Text - Images]
+1994 - CSS
+1995 - Javascript (JS)
+1999 - Internet on Mobile Devices
+2000 - 414M User
+2008 - Google Chrome
+2017 - 3.9 User / 49% Mobile
+
+Web 1.0 / 1989 - 2004
+Web 2.0 / 2004 (Start at 2002)
+Web 3.0 / 2014 (Blockchain Decenteralized Databases) (2008 - 2009) / Co-funder Etherium / 2021
+    - Bitcoin (2008) / Satushi Nakamutu (2009 Released)
+
+---------------------------------------------------------
+HTML = HyperTextMarkupLanguage
+W3C (WWW) Tim Berners Lee (1994)
+1993 - First Draft (HTML 1.0)
+1995 - HTML 2.0
+1997 - HTML 3.2
+1997 - HTML 4
+1999 - HTML 4.01
+2004 - WHATWG / XHTML 1.0
+2014 - HTML 5
+2016 - HTML 5.1
+2017 - HTML 5.2
+...
+
+
+
+IDE - Code Editor
+Integrated Development Environment
+<tag> [Opening Tag]
+</tag> [Closing Tag]
+<tag> </tag>  [Element]
+<tag /> [Single Tag]
+<br />
+<hr />
+<tag id="test" class="box" style="color:red;"> </tag>
+
+attributes => General Attributes / Special Attributes
+
+
+" Double Quote
+' Single Quote
+: Colon
+; Semi-Colon
