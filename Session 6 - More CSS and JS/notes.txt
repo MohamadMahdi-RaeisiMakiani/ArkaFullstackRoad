@@ -1,0 +1,50 @@
+Project Root
+Use CSS Inside of a HTML Document
+More Into Javascript
+
+directory = folder
+
+Project Root / The Main Directory of Project Files (Website Files)
+Simple Websites (Mailnly Frontend) / assets directory
+Django Projects (Backend Framework Python) / static directory
+
+static
+C:/files/more/styles.css
+
+relative
+path from index.html (Root Document)
+../ back from root directory
+./ root directory
+
+
+CSS
+3 ways to style an HTML document
+
+1) External Style File
+2) Inline Styling
+3) Internal (Style Tag)
+
+Selector / CSS attribute / CSS value
+
+HTML class attribure
+HTML id attribure
+
+Javascript / use in the HTML document
+
+address / SEO Address at Contact us
+big / BIG Elements (Not used at HTML 5) [CSS Using]
+code / Inside of HTML Writing Programming Codes
+cite / Quote of a Famous Person (Shape Form 1)
+blockquote / Quote of a Famous Person (Shape Form 2)
+q / Quote of a Famous Person (Shape Form 3)
+mark / Highlight the text
+abbr / Abbrivation of a Text using title attribute
+acronym / Abbrivation of a Text using title attribute (Not used at HTML 5)
+dfn / Abbrivation of a Text using title attribute with italic text form
+center / write the text center of the page
+ins / underlined text (Not used at HTML 5)
+del / deleted text
+small /
+pre / write text with line breaks and free spaces
+sup / write up of the text
+sub / write down of the text
