@@ -1,0 +1,36 @@
+.nav-bar{
+	margin: 1rem 2rem;
+	background-color: lime;
+	padding: 1rem;
+	text-align: center;
+}
+.links{
+	margin: 0 1rem;
+	padding: 1rem;
+}
+.links:hover{
+	background-color: white;
+	color: green;
+	transition: 1s ease;
+	border-radius: 1rem;
+}
+.main_header{
+	text-align: center;
+}
+.pic-box{
+	width: 45rem;
+}
+.para-box{
+	text-align: center;
+	border: 1px solid #000;
+	margin: 0 15rem;
+}
+.other-box{
+	width: 10rem;
+	height: 10rem;
+	background-color: red;
+	margin-left: 7rem;
+	margin-top: 12rem;
+	padding-left: 2rem;
+	padding-top: 4rem;
+}
