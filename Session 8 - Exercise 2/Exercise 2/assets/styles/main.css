@@ -1,0 +1,61 @@
+.nav-links {
+    text-decoration: none;
+    color: aqua;
+}
+.logo-image{
+    width: 10rem;
+    float: left;
+    margin: 2rem 0;
+}
+.navbar-section{
+    float: right;
+    margin: 4rem 0;
+    padding-right: 3rem;
+}
+.header-top{
+    background-color: #353232;
+    height: 10rem;
+}
+.second-image{
+    height: 20rem;
+    float: left;
+    margin: 2rem 0;
+}
+.header-bottom{
+    background-color: gray;
+    height: 25rem;
+}
+.header-text-box{
+    float: right;
+    margin: 8rem 8rem;
+}
+.header-second-text{
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.header-second-text:hover{
+    background-color: #cdc5c5;
+    transition: 1s ease;
+}
+.navlinks-box{
+    display: flex;
+}
+.navlinks-listitem{
+margin: 0 1rem;
+color: #fff;
+}
+.fast-access-links{
+float: right;
+}
+.news-box{
+    float: left;
+}
+.navlinks-box2{
+    display: flex;
+    flex-flow: column;
+
+}
+/* .footer-box{
+    display: flex;
+} */
